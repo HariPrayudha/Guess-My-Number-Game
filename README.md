@@ -74,14 +74,19 @@ The `app.json` file includes the configuration for:
 ```
 
 ## Screenshots
-1. **Start Screen**
-   ![Start Screen](./assets/images/start-screen.png)
 
-2. **Game Screen**
-   ![Game Screen](./assets/images/game-screen.png)
-
-3. **Game Over Screen**
-   ![Game Over Screen](./assets/images/game-over-screen.png)
+<table>
+  <tr>
+    <td><img src="./assets/images/start-screen.png" alt="Start Screen" width="200"></td>
+    <td><img src="./assets/images/game-screen.png" alt="Game Screen" width="200"></td>
+    <td><img src="./assets/images/game-over-screen.png" alt="Game Over Screen" width="200"></td>
+  </tr>
+  <tr>
+    <td>Start Screen</td>
+    <td>Game Screen</td>
+    <td>Game Over Screen</td>
+  </tr>
+</table>
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.

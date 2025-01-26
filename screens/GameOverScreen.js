@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
         fontFamily: 'open-sans',
         fontSize: 24,
         textAlign: 'center',
-        marginVertical: 24
+        marginVertical: 23
     },
     highlight: {
         fontFamily: 'open-sans-bold',
